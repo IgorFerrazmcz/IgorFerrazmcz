@@ -13,7 +13,19 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
+
+
+</div>
+
+
+<div><br>
+<a href="https://github.com/igorferrazmcz/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorferrazmcz&layout=compact&langs_count=8&card_width=320true&theme=transparent" />
+</a>
   
 </div>
 
