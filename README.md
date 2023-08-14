@@ -22,10 +22,7 @@
 </div>
 
 
-<div><br>
-<a href="https://github.com/igorferrazmcz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorferrazmcz&layout=compact&langs_count=8&card_width=320true&theme=transparent" />
-</a>
+
   
 </div>
 
